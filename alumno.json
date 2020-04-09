@@ -1,0 +1,51 @@
+{
+	"cedula":"26324567",
+	"nombre":"Pedro Perez",
+	"especialidad":"Informática",
+	"semestres": [
+	  {
+	    "lapso":"2010-1",
+	    "inicio":"20100211",
+	    "fin":"20101123",
+	    "registro":[
+	       {
+	         "asignatura":"Matemática I",
+	         "nota":"7",
+	         "uc":"4"",
+	       },
+	       {
+	       	 "asignatura":"Programación I",
+	         "nota":"5",
+	         "uc":"4"",
+	       },
+	       {
+	       	 "asignatura":"Física I",
+	         "nota":"6",
+	         "uc":"3"",
+	       },
+	    ]
+	  },
+	  {
+	    "lapso":"2010-2",
+	    "inicio":"20101211",
+	    "fin":"20110423",
+	    "registro":[
+	       {
+	         "asignatura":"Matemática II",
+	         "nota":"5",
+	         "uc":"4"",
+	       },
+	       {
+	       	 "asignatura":"Estructura de Datos",
+	         "nota":"5",
+	         "uc":"4"",
+	       },
+	       {
+	       	 "asignatura":"Matemática Discreta",
+	         "nota":"5",
+	         "uc":"3"",
+	       },
+	    ]
+	  },
+	]
+}
